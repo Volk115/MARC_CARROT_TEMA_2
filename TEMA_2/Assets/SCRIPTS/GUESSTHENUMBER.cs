@@ -8,6 +8,7 @@ public class GUESSTHENUMBER : MonoBehaviour
     private int randNum;
     private int playerNum;
     private int counter;
+
     // Start is called before the first frame update
     void Start()
     {
